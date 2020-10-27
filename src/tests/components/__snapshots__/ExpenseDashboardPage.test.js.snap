@@ -4,5 +4,6 @@ exports[`should render ExpenseListItem with fixture data correctly 1`] = `
 <div>
   <[object Object] />
   <[object Object] />
+  <[object Object] />
 </div>
 `;
